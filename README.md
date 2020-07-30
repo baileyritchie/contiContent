@@ -6,6 +6,7 @@ A simple, no-frills blogging platform that lets you write in markdown, publish a
 
  Front-End
   - React.js
+  
  Back-End 
   - Express
   - Node.js
